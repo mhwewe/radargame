@@ -1,0 +1,18 @@
+﻿{
+  "logLevel": "None",
+  "proxies": [
+    {
+      "appNames": [
+        "D:\\SteamLibrary\\steamapps\\common\\MarvelRivals\\MarvelRivals_Launcher.exe",
+        "D:\\SteamLibrary\\steamapps\\common\\MarvelRivals\\MarvelGame\\Marvel.exe",
+        "D:\\SteamLibrary\\steamapps\\common\\MarvelRivals\\MarvelGame\\Marvel\\Binaries\\Win64\\Marvel-Win64-Shipping.exe",
+        "D:\\SteamLibrary\\steamapps\\common\\MarvelRivals\\MarvelGame\\Marvel\\Binaries\\Win64\\webviewsupport.cef904430\\webview_support_browser.exe"
+      ],
+      "socks5ProxyEndpoint": "127.0.0.1:2233",
+      "supportedProtocols": [
+        "TCP",
+        "UDP"
+      ]
+    }
+  ]
+}
