@@ -1,0 +1,11 @@
+2025-02-21 16:05:03.9336|INFO|Initial|Initializing Started!
+2025-02-21 16:05:03.9544|INFO|Initial|Task ensureDatabaseCreated Completed!
+2025-02-21 16:05:04.0864|INFO|Initial|Task RemoveDuplicates Completed!
+2025-02-21 16:05:04.1680|INFO|Initial|Initializing Finished!
+2025-02-21 16:05:04.1680|INFO|Initial|Checking App Dll List
+2025-02-21 16:05:04.1680|INFO|Initial|App Dll List Checked Successfully!
+2025-02-21 16:05:04.1881|INFO|Initial|Task Validate Completed!
+2025-02-21 16:05:04.4315|INFO|Initial|Task CheckForUpdate Completed!
+2025-02-21 16:05:08.6400|INFO|Initial|Task GetGames Completed!
+2025-02-21 16:05:12.9582|INFO|GameInfoSender Background Service|Service Has Started
+2025-02-21 16:05:22.2707|INFO|GameInfoSender Background Service|Games Sent To Server Successfully!
